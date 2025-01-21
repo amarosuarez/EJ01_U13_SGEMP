@@ -1,3 +1,9 @@
-#tablePersonas {
-    visibility: hidden;
+#tablePersonas, #addPersona {
+    display: none;
+}
+
+#addPersona {
+    background-color: rgb(210, 210, 199);
+    border-radius: 8px;
+    padding: 10px;
 }
